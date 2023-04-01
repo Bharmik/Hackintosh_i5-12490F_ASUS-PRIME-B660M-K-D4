@@ -12,6 +12,7 @@
 
 
 - 2023.03.25<br> 
+![Image text](https://github.com/Bharmik/Hackintosh_i5-12490F_ASUS-PRIME-B660M-K-D4/blob/master/Mac%20Pro.png")
 系统：macOS ventura 13.2 <br> 
 OC：0.8.5
 
